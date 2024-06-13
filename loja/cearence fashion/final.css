@@ -1,0 +1,12 @@
+body{
+    background-color: #67b0b4;
+    overflow-x: hidden;
+}
+
+h1{
+    color: aliceblue;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 15%;
+}
